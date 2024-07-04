@@ -1,6 +1,4 @@
 ## Olá, eu sou a João Henrique, dev e amante da tecnologia!
-
-  ##
   
   Sou formado em Análise e Desenvolvimento de Sistemas pela FACENS, com uma paixão incessante por adquirir conhecimento e aprimorar minhas habilidades. 
 
